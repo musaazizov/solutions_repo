@@ -54,13 +54,13 @@ Where $\omega_0 = \sqrt{\frac{g}{L}}$
 
 ### Particular Solution (Steady State):
 
-\[
+$\[
 \theta(t) = \theta_{\text{hom}}(t) + \theta_{\text{part}}(t)
-\]
+\]$
 
-\[
+$\[
 \theta_{\text{part}}(t) = B \cos(\omega t - \delta)
-\]
+\]$
 
 Where:
 
