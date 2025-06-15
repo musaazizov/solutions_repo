@@ -5,14 +5,10 @@ Calculating equivalent resistance is a foundational problem in physics and elect
 **Key Concepts:**
 
 1. **Series Connection:** Two resistors are in series if they are connected end-to-end with no branching, carrying the same current. The equivalent resistance is given by
-$$
-R_{eq} = R_1 + R_2 + \dots + R_n.
-$$
+$$R_{eq} = R_1 + R_2 + \dots + R_n.$$
 
 2. **Parallel Connection:** Two or more resistors are in parallel if they connect the same two nodes and share the same voltage. The equivalent resistance is given by
-$$
-\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}.
-$$
+$$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}.$$
 
 **Graph Theory Approach:**
 
