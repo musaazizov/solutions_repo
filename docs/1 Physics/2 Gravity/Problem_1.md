@@ -150,4 +150,10 @@ Kepler's Third Law is a powerful tool for understanding the motion of celestial 
 - **Non-circular Orbits**: The law applies directly to circular orbits but can be adapted for elliptical orbits using the semi-major axis.
 - **Relativity**: For extremely large gravitational fields (like those near black holes), relativistic effects may need to be considered, which slightly modify Kepler's law.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+## colab 
+[problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
 
