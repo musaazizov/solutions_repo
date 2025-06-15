@@ -5,9 +5,7 @@ Calculating equivalent resistance is a foundational problem in physics and elect
 **Key Concepts:**
 
 1. **Series Connection:** Two resistors are in series if they are connected end-to-end with no branching, carrying the same current. The equivalent resistance is given by
-$$
-R_{eq} = R_1 + R_2 + \dots + R_n.
-$$
+$$R_{eq} = R_1 + R_2 + \dots + R_n.$$
 
 3. **Parallel Connection:** Two or more resistors are in parallel if they connect the same two nodes and share the same voltage. The equivalent resistance is given by
 $$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}.$$
@@ -41,9 +39,9 @@ $$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}.$$
   \( A \to B = 4\Omega \), \( B \to D = 6\Omega \), \( A \to C = 12\Omega \), \( C \to E = 12\Omega \), and \( D \to E = 6\Omega \).  
   Simplify series: \( B-D = 10 \Omega \), \( C-E = 24 \Omega \).  
   Paths from \( A \) to \( E \) are in parallel:  
-  \[$$
+  $$\[
   \frac{1}{R_{eq}} = \frac{1}{16} + \frac{1}{24} = \frac{5}{48} \implies R_{eq} = \frac{48}{5} = 9.6 \Omega.
-  \]$$
+  \] $$
 
 **Advantages:** The graph-based method scales to complex circuits, is systematic, automatable, and visually intuitive. For larger circuits, node degree checks help detect series connections and edge multiplicity detects parallel connections, allowing iterative reduction.
 
