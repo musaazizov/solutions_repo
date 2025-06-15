@@ -166,3 +166,15 @@ Use **Runge-Kutta 4th order** or other numerical integration methods.
 - **Random/quasiperiodic forcing**  
 - **Coupled pendulums**  
 - **Multi-DOF systems**: e.g., double pendulum  
+
+---
+
+
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+
+## colob
+
+ [problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
