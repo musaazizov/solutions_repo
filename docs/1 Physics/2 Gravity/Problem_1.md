@@ -7,9 +7,9 @@ The fundamental force that governs orbital motion is gravity. To derive the rela
 ### Step 1: Newton’s Law of Universal Gravitation
 The gravitational force $F_g$ between two masses $M$ and $m$ separated by a distance $r$ is given by:
 
-\[
+$$\[
 F_g = \frac{GMm}{r^2}
-\]
+\]$$
 
 where:
 
@@ -21,67 +21,67 @@ where:
 ### Step 2: Centripetal Force for Circular Orbits
 An object in a circular orbit experiences a centripetal force $F_c$ that keeps it moving in a circular path. The centripetal force required to keep an object of mass $m$ moving with velocity $v$ along a circular path of radius $r$ is:
 
-\[
+$$\[
 F_c = \frac{mv^2}{r}
-\]
+\]$$
 
 For an object to stay in orbit, the gravitational force must equal the centripetal force. Therefore, we set $F_g = F_c$:
 
-\[
+$$\[
 \frac{GMm}{r^2} = \frac{mv^2}{r}
-\]
+\]$$
 
 We can cancel $m$ from both sides:
 
-\[
+$$\[
 \frac{GM}{r^2} = \frac{v^2}{r}
-\]
+\]$$
 
 Multiplying both sides by $r$, we get:
 
-\[
+$$\[
 \frac{GM}{r} = v^2
-\]
+\]$$
 
 Thus, the orbital velocity $v$ of an object is:
 
-\[
+$$\[
 v = \sqrt{\frac{GM}{r}}
-\]
+\]$$
 
 ### Step 3: Orbital Period and Orbital Velocity
 The orbital period $T$ is the time it takes for an object to complete one full revolution around the central body. The distance traveled in one orbit is the circumference of the circle, $2 \pi r$. Therefore, the orbital period is:
 
-\[
+$$\[
 T = \frac{\text{Circumference}}{\text{Velocity}} = \frac{2 \pi r}{v}
-\]
+\]$$
 
 Substituting the expression for $v$ from above:
 
-\[
+$$\[
 T = \frac{2 \pi r}{\sqrt{\frac{GM}{r}}}
-\]
+\]$$
 
 Simplifying this:
 
-\[
+$$\[
 T = 2 \pi \sqrt{\frac{r^3}{GM}}
-\]
+\]$$
 
 ### Step 4: Kepler's Third Law
 This equation shows that the orbital period $T$ is proportional to the $3/2$ power of the orbital radius $r$:
 
-\[
+$$\[
 T^2 \propto r^3
-\]
+\]$$
 
 This is Kepler's Third Law of Planetary Motion, which states that the square of the orbital period is directly proportional to the cube of the orbital radius.
 
 Thus, for circular orbits:
 
-\[
+$$\[
 T^2 = \frac{4 \pi^2}{GM} r^3
-\]
+\]$$
 
 This equation can be used to calculate the orbital period of any object given the mass of the central body $M$ and the orbital radius $r$.
 
@@ -92,9 +92,9 @@ Kepler’s Third Law has significant implications in astronomy and celestial mec
 ### Determining the Mass of a Celestial Body
 If we know the orbital period $T$ and the orbital radius $r$ of an object orbiting a body (e.g., a satellite orbiting Earth or a planet orbiting the Sun), we can rearrange the formula to solve for the mass $M$ of the central body:
 
-\[
+$$\[
 M = \frac{4 \pi^2 r^3}{G T^2}
-\]
+\]$$
 
 This is how astronomers can calculate the mass of celestial bodies, such as planets or stars, using their moons or satellites as reference objects.
 
@@ -120,9 +120,9 @@ Kepler's Third Law predicts this relationship between orbital period and orbital
 ## 4. Extending to Elliptical Orbits
 Kepler’s Third Law also applies to elliptical orbits, though with a slight modification. For elliptical orbits, the relationship between the orbital period $T$ and the semi-major axis $a$ (the average orbital radius) still follows the same general form:
 
-\[
+$$\[
 T^2 \propto a^3
-\]
+\]$$
 
 where $a$ is the semi-major axis of the ellipse (half of the longest diameter of the ellipse). The orbital period depends on the average distance of the orbiting body from the central body, not the instantaneous distance.
 
@@ -133,9 +133,9 @@ To verify the relationship between orbital period and radius computationally, yo
 - **Input**: The central body’s mass $M$, and the orbital radius $r$.
 - **Compute**: Using the derived equation for the orbital period:
 
-\[
+$$\[
 T = 2 \pi \sqrt{\frac{r^3}{GM}}
-\]
+\]$$
 
 - **Plot**: Graph the orbital period $T$ as a function of the orbital radius $r$, and verify the relationship $T^2 \propto r^3$.
 
