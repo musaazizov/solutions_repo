@@ -154,3 +154,13 @@ Now, using the formula for the second cosmic velocity:
 $$
 v_2 = \sqrt{\frac{2GM_{\text{Jupiter}}}{r_{\text{Jupiter}}}}
 $$
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+ 
+ ## colab
+
+[problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
