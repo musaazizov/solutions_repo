@@ -128,3 +128,12 @@ This model is an idealized approximation and does not consider:
 
 Projectile motion offers a simple yet powerful model to analyze how a projectile behaves under the influence of gravity. By varying initial conditions such as launch velocity, angle, and gravity, we can predict the range and trajectory. However, for real-world applications, we must account for complexities such as air resistance, wind, and uneven terrain.
 
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
+## colab c
+[problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
