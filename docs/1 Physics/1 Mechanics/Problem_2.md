@@ -38,7 +38,7 @@ The linearized equation becomes:
 
 ### Homogeneous Part (No Forcing):
 
-\[$$
+$$\[
 \frac{d^2 \theta}{dt^2} + b \frac{d \theta}{dt} + \omega_0^2 \theta = 0
 \]$$
 
