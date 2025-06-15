@@ -136,9 +136,9 @@ For large angles, the **nonlinear** equation with full $\sin(\theta)$ must be us
 
 For solving the **nonlinear** equation:
 
-\[
+$\[
 \frac{d^2 \theta}{dt^2} + b \frac{d \theta}{dt} + \frac{g}{L} \sin(\theta) = A \cos(\omega t)
-\]
+\]$
 
 Use **Runge-Kutta 4th order** or other numerical integration methods.
 
