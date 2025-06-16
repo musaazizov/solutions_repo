@@ -68,11 +68,9 @@ The Central Limit Theorem is important because it justifies:
 
 The Central Limit Theorem provides the foundation for many statistical methods because it guarantees that averages of samples tend to behave nicely (normally), making complex problems much easier to analyze.
 
-
 ---
 
-![alt text](image-4.png)
+![alt text](image.png)
 
-## colab 
+##  colab 
 [problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
-
