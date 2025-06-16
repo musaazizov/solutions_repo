@@ -72,5 +72,12 @@ The Central Limit Theorem provides the foundation for many statistical methods b
 
 ![alt text](image.png)
 
+<<<<<<< HEAD
+## colab 
+[problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)y
+
+
+=======
 ##  colab 
 [problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
+>>>>>>> 775b81135860e04391e2c023e011eefec5b93611
