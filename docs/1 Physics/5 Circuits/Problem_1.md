@@ -48,3 +48,15 @@ $$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}.$$
 **Applications:** Useful in circuit design, simulation software (e.g., SPICE), network reliability, PCB optimization, and energy distribution.
 
 **Conclusion:** Applying graph theory to calculate equivalent resistance is a powerful and practical approach for analyzing complex resistor networks, enabling efficient and automated circuit analysis beyond simple manual methods.
+
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+## colab 
+[problems](https://colab.research.google.com/drive/1iBWUYRk0QN1CEQ_U9ZlV32IZq9PVSaLw?usp=sharing)
